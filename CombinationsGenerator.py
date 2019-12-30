@@ -2,6 +2,7 @@ import itertools
 from itertools import combinations
 
 #nCombinations = 46!/(6!*40!) = 9366819
+#nAppears 1221759 => (6*9366819/46)
 
 numbers = [0, 1, 2, 3, 4,
            5, 6, 7, 8, 9,
